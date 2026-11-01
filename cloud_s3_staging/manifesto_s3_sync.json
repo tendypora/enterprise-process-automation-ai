@@ -1,0 +1,10 @@
+{
+  "destino_cloud": "local_s3_staging/automacao_backoffice/",
+  "arquivos_sincronizados": [
+    "conciliacao_faturas_rpa.xlsx",
+    "relatorio_auditoria_rpa_e_ia.pdf",
+    "chamados_classificados_ia.json"
+  ],
+  "status_sincronizacao": "OK",
+  "modo": "Staging Cloud Local (Pronto para AWS S3 boto3)"
+}

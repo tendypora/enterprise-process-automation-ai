@@ -1,0 +1,452 @@
+[
+  {
+    "id_chamado": "INC-4001",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 16,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4002",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 13,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4003",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 29,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4004",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 28,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4005",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 18,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4006",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 16,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4007",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 29,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4008",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 7,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4009",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 35,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4010",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 6,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4011",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 11,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4012",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 32,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4013",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 14,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4014",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 4,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4015",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 25,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4016",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 25,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4017",
+    "area_solicitante": "Automação RPA",
+    "descricao_livre": "Robô RPA de conciliação bancária parou por alteração de layout XML",
+    "horas_em_aberto": 30,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4018",
+    "area_solicitante": "Automação RPA",
+    "descricao_livre": "Robô RPA de conciliação bancária parou por alteração de layout XML",
+    "horas_em_aberto": 28,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4019",
+    "area_solicitante": "Suporte BI",
+    "descricao_livre": "Dúvida sobre filtro de safra no painel executivo da diretoria",
+    "horas_em_aberto": 36,
+    "prioridade_ia": "P4 - Baixa",
+    "sla_alvo_horas": 48,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Responder com Base de Conhecimento Automatizada"
+  },
+  {
+    "id_chamado": "INC-4020",
+    "area_solicitante": "Suporte BI",
+    "descricao_livre": "Dúvida sobre filtro de safra no painel executivo da diretoria",
+    "horas_em_aberto": 32,
+    "prioridade_ia": "P4 - Baixa",
+    "sla_alvo_horas": 48,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Responder com Base de Conhecimento Automatizada"
+  },
+  {
+    "id_chamado": "INC-4021",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 13,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4022",
+    "area_solicitante": "Automação RPA",
+    "descricao_livre": "Robô RPA de conciliação bancária parou por alteração de layout XML",
+    "horas_em_aberto": 14,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4023",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 35,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4024",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 21,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4025",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 4,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4026",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 31,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4027",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 34,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4028",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 4,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4029",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 6,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4030",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 5,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4031",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 5,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4032",
+    "area_solicitante": "Suporte BI",
+    "descricao_livre": "Dúvida sobre filtro de safra no painel executivo da diretoria",
+    "horas_em_aberto": 16,
+    "prioridade_ia": "P4 - Baixa",
+    "sla_alvo_horas": 48,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Responder com Base de Conhecimento Automatizada"
+  },
+  {
+    "id_chamado": "INC-4033",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 8,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4034",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 16,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4035",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 3,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4036",
+    "area_solicitante": "Crítico / Produção",
+    "descricao_livre": "Queda de performance e fila lenta no processamento de pagamentos Pix",
+    "horas_em_aberto": 6,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4037",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 34,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4038",
+    "area_solicitante": "Automação RPA",
+    "descricao_livre": "Robô RPA de conciliação bancária parou por alteração de layout XML",
+    "horas_em_aberto": 17,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4039",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 21,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4040",
+    "area_solicitante": "Dados & BI",
+    "descricao_livre": "Divergência no relatório DRE do fechamento contábil mensal no BI",
+    "horas_em_aberto": 17,
+    "prioridade_ia": "P2 - Alta",
+    "sla_alvo_horas": 8,
+    "status_sla": "SLA VIOLADO",
+    "acao_recomendada": "Priorizar na Sprint Diária de Dados & RPA"
+  },
+  {
+    "id_chamado": "INC-4041",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 9,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4042",
+    "area_solicitante": "Suporte BI",
+    "descricao_livre": "Dúvida sobre filtro de safra no painel executivo da diretoria",
+    "horas_em_aberto": 20,
+    "prioridade_ia": "P4 - Baixa",
+    "sla_alvo_horas": 48,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Responder com Base de Conhecimento Automatizada"
+  },
+  {
+    "id_chamado": "INC-4043",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 21,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  },
+  {
+    "id_chamado": "INC-4044",
+    "area_solicitante": "Infra & Cloud",
+    "descricao_livre": "Erro de timeout na integração da API de faturamento S3 na madrugada",
+    "horas_em_aberto": 1,
+    "prioridade_ia": "P1 - Crítico",
+    "sla_alvo_horas": 4,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Acionar Plantão SRE / Engenharia de Automação Imediatamente"
+  },
+  {
+    "id_chamado": "INC-4045",
+    "area_solicitante": "Segurança & IAM",
+    "descricao_livre": "Solicitação de liberação de acesso IAM para novo analista de dados",
+    "horas_em_aberto": 7,
+    "prioridade_ia": "P3 - Média",
+    "sla_alvo_horas": 24,
+    "status_sla": "DENTRO DO SLA",
+    "acao_recomendada": "Executar Provisionamento Automatizado via IAM Role"
+  }
+]

@@ -1,0 +1,48 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Length 1050 >>
+stream
+BT /F2 15 Tf 56 786.0 Td (Relatorio de Automacao Corporativa \(RPA\), Conciliacao e Triagem com IA) Tj ET
+BT /F2 11.5 Tf 56 765.3 Td (Cotacao PTAX utilizada: R$ 5.0826 \(API Olinda BACEN \(Online\)\)) Tj ET
+BT /F1 10 Tf 56 749.4 Td () Tj ET
+BT /F2 11.5 Tf 56 735.6 Td (1. CONCILIACAO AUTOMATIZADA DE FATURAS E CONTRATOS \(FINOPS & BACKOFFICE\)) Tj ET
+BT /F1 10 Tf 56 719.8 Td (Total de faturas processadas pelo robo: 60 faturas \(R$ 2,571,608.06\).) Tj ET
+BT /F1 10 Tf 56 706.0 Td (Faturas bloqueadas automaticamente por divergencia ou duplicidade: 15 faturas.) Tj ET
+BT /F1 10 Tf 56 692.2 Td (Economia / Glosa apurada pelo robo antes do pagamento: R$ 247,035.50.) Tj ET
+BT /F1 10 Tf 56 678.4 Td () Tj ET
+BT /F2 11.5 Tf 56 664.6 Td (2. TRIAGEM INTELIGENTE DE CHAMADOS OPERACIONAIS COM IA \(SERVICE DESK\)) Tj ET
+BT /F1 10 Tf 56 648.7 Td (Total de chamados classificados automaticamente: 45 chamados.) Tj ET
+BT /F1 10 Tf 56 634.9 Td (Incidentes criticos \(P1\) detectados: 22 | Alertas de SLA violado: 29.) Tj ET
+BT /F1 8 Tf 499 30 Td (p·g. 1/1) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000112 00000 n 
+0000000214 00000 n 
+0000000271 00000 n 
+0000001373 00000 n 
+0000001509 00000 n 
+trailer
+<< /Size 7 /Root 6 0 R >>
+startxref
+1558
+%%EOF
